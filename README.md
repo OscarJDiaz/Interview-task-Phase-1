@@ -1,3 +1,4 @@
+```
 This project generates a synthetic dataset of laptop prices sold by Fnac and Boulanger.
 
 Project Structure
@@ -56,8 +57,10 @@ Selection of Top-10 models per brand
 Execution:
     - python generation.py
     - python validation.py
+```
 
 Outputs:
     - generation.py → generates dataset.csv and dataset.json.
     - validation.py → validates that the dataset complies with business rules.
+
 
