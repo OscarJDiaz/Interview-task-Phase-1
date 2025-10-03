@@ -1,3 +1,4 @@
+```
 This dataset is 100% synthetic.
 
 The following parts were simulated:
@@ -24,3 +25,4 @@ How real data could be obtained in later phases:
 This deliverable is based on the ability to organize and simulate data in the required format. 
 The same flow can be connected to real data with weekly scraping from Fnac and Boulanger, 
 without changing the schema or the validation processes.
+```
