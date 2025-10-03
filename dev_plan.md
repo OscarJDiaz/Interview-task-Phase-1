@@ -1,4 +1,5 @@
 Day 1 — Design & sample definition
+
     - Objective: 
         - Define a schema in JSON format with all required fields and create a sample CSV file with 2–3 rows.
 
@@ -12,6 +13,7 @@ Day 1 — Design & sample definition
         - Basic generation rules are documented (e.g., how `model_id` is calculated, when `promo_active` is set).  
 
 Day 2 — Data generation script
+
     - Objective: 
         - Create a script that generates synthetic data automatically following the schema.  
 
@@ -26,6 +28,7 @@ Day 2 — Data generation script
         - CSV and JSON files open without errors.  
 
 Day 3 — Full dataset generation
+
     - Objective:  
         - Scale the script to generate the full dataset with all brands and save the final result.  
 
@@ -40,6 +43,7 @@ Day 3 — Full dataset generation
         - Data is consistent and reproducible.  
 
 Day 4 — Validation & basic calculations
+
     - Objective:  
         - Validate weekly calculations and the quality of the final dataset.  
 
@@ -53,6 +57,7 @@ Day 4 — Validation & basic calculations
         - The dataset contains at least 560 rows.  
 
 Day 5 — Documentation & submission package
+
     - Objective: 
         - Package the project and document the final delivery.  
 
@@ -67,3 +72,4 @@ Day 5 — Documentation & submission package
         - Reproducible submission.  
         - Dataset with all fields in ISO format.  
         - Clear documentation.  
+
