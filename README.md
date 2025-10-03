@@ -11,7 +11,7 @@ Project Structure
 |-- dataset.json
 |-- validation.py
 
-Requirements: /n
+Requirements:
     - Python 3.8 or higher
 
 Dependencies:
@@ -62,5 +62,6 @@ Execution:
 Outputs:
     - generation.py → generates dataset.csv and dataset.json.
     - validation.py → validates that the dataset complies with business rules.
+
 
 
