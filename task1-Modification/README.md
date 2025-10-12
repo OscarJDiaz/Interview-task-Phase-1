@@ -3,9 +3,10 @@ Rank, Brand, CPU Brand, Processor Type, RAM, Storage, Screen Size, Resolution, P
 
 To achieve this, two scripts were created:
     - Synthetic generator: Based on the generation.py code, it produces normalized, realistic-looking data without depending on any website.
-
     - Boulanger scraper: Extracts whatever actually exists on that store (via JSON-LD and HTML) and maps it to the normalized columns.
+    
 Note: different sites publish different metadata. Therefore, when a field from the example does not exist on the website, we leave it empty or use a clearly documented equivalent field.
+About scraping Fnac: Scraping Fnac was not completed in this iteration because we could not connect to the site or read its robots.txt, but the thinking behind the Boulanger code to analyze the JSON-LD of a product to determine the parameters of interest and normalize it to our format would be quite similar.
 
 Synthetic generator:
     - Code:
@@ -31,5 +32,3 @@ Boulanger scraper:
         - Normalizes units and formats (e.g., Go → GB for RAM; “SSD 512 Go MVMe” → “512GB SSD” for Storage).
         - For “Resolution,” the example uses labels like “FHD/2K/etc.”, but many Boulanger pages publish a numeric resolution (“1920 x 1080 pixels”). The script returns the normalized numeric form (“1920x1080”) when available. If not present, it remains empty.
 
-
-About scraping Fnac: Scraping Fnac was not completed in this iteration because we could not connect to the site or read its robots.txt, but the thinking behind the Boulanger code to analyze the JSON-LD of a product to determine the parameters of interest and normalize it to our format would be quite similar.
