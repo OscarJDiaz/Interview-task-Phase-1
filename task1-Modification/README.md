@@ -25,7 +25,7 @@ Boulanger scraper:
     - Run command:
         - python boulanger_scrapping.py
     - Generated files:
-        - boulanger_scrapping
+        - boulanger_scrapping.csv
     - Notes:
         - Collects data from https://www.boulanger.com/c/tous-les-ordinateurs-portables.
         - Gathers product links under /ref/..., opens each product page, and extracts JSON-LD (@type=Product).
@@ -33,3 +33,4 @@ Boulanger scraper:
         - Normalizes units and formats (e.g., Go → GB for RAM; “SSD 512 Go MVMe” → “512GB SSD” for Storage).
         - For “Resolution,” the example uses labels like “FHD/2K/etc.”, but many Boulanger pages publish a numeric resolution (“1920 x 1080 pixels”). The script returns the normalized numeric form (“1920x1080”) when available. If not present, it remains empty.
 ```
+
