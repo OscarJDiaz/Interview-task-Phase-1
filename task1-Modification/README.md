@@ -1,3 +1,4 @@
+```
 After the Task 1 tests, we were asked to normalize the data following the column structure from the example “Traditional_Segment_Top100Q2 (2)”:
 Rank, Brand, CPU Brand, Processor Type, RAM, Storage, Screen Size, Resolution, Price, Product Name
 
@@ -31,4 +32,4 @@ Boulanger scraper:
         - Fallsback to HTML/text if a field is missing in JSON-LD.
         - Normalizes units and formats (e.g., Go → GB for RAM; “SSD 512 Go MVMe” → “512GB SSD” for Storage).
         - For “Resolution,” the example uses labels like “FHD/2K/etc.”, but many Boulanger pages publish a numeric resolution (“1920 x 1080 pixels”). The script returns the normalized numeric form (“1920x1080”) when available. If not present, it remains empty.
-
+```
