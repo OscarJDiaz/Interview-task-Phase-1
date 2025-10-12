@@ -1,0 +1,101 @@
+Rank,Brand,CPU Brand,Processor Type,RAM,Storage,Screen Size,Resolution,Price,Product Name
+1,Acer,Intel,Intel Core i5-1334U,16GB RAM,512GB SSD,16 inch,QHD,650.86,Acer TravelMate P4 | 16 inch QHD | 16GB RAM | 512GB SSD | Intel Core i5-1334U
+2,Acer,AMD,AMD Ryzen 7 7840U,4GB RAM,128GB Flash,13.3 inch,UHD,676.69,Acer TravelMate P4 | 13.3 inch UHD | 4GB RAM | 128GB Flash | AMD Ryzen 7 7840U
+3,HP,AMD,AMD Ryzen 7 7735HS,4GB RAM,128GB Flash,14 inch,2K,695.97,HP ZBook Firefly | 14 inch 2K | 4GB RAM | 128GB Flash | AMD Ryzen 7 7735HS
+4,Lenovo,Intel,Intel Core i3-1215U,8GB RAM,1TB SSD,15.6 inch,UHD,710.54,Lenovo LOQ 15 | 15.6 inch UHD | 8GB RAM | 1TB SSD | Intel Core i3-1215U
+5,Dell,Intel,Intel Processor N100,32GB RAM,512GB SSD,16 inch,QHD,761.98,Dell Inspiron 16 | 16 inch QHD | 32GB RAM | 512GB SSD | Intel Processor N100
+6,Samsung,Intel,Intel Processor N100,32GB RAM,128GB Flash,13.3 inch,FHD,805.56,Samsung Galaxy Book Go | 13.3 inch FHD | 32GB RAM | 128GB Flash | Intel Processor N100
+7,Acer,AMD,AMD Ryzen 3 7320U,8GB RAM,256GB SSD,15.6 inch,HD,817.69,Acer TravelMate P4 | 15.6 inch HD | 8GB RAM | 256GB SSD | AMD Ryzen 3 7320U
+8,HP,AMD,AMD Ryzen 7 7735HS,8GB RAM,128GB Flash,14 inch,HD,869.98,HP EliteBook 840 | 14 inch HD | 8GB RAM | 128GB Flash | AMD Ryzen 7 7735HS
+9,Lenovo,Intel,Intel Core i7-1360P,16GB RAM,128GB Flash,14 inch,HD,910.75,Lenovo Yoga 7 | 14 inch HD | 16GB RAM | 128GB Flash | Intel Core i7-1360P
+10,Acer,AMD,AMD Ryzen 5 7640HS,32GB RAM,128GB Flash,14 inch,UHD,914.79,Acer Nitro 5 | 14 inch UHD | 32GB RAM | 128GB Flash | AMD Ryzen 5 7640HS
+11,Dell,AMD,AMD Ryzen 3 7320U,4GB RAM,128GB Flash,16 inch,QHD,915.72,Dell Inspiron 14 | 16 inch QHD | 4GB RAM | 128GB Flash | AMD Ryzen 3 7320U
+12,Dell,Intel,Intel Core i5-12450H,32GB RAM,2TB SSD,13.3 inch,QHD,946.1,Dell Latitude 7440 | 13.3 inch QHD | 32GB RAM | 2TB SSD | Intel Core i5-12450H
+13,Samsung,Intel,Intel Core i5-12450H,16GB RAM,512GB SSD,13.3 inch,UHD,948.29,Samsung Galaxy Book3 360 | 13.3 inch UHD | 16GB RAM | 512GB SSD | Intel Core i5-12450H
+14,Lenovo,AMD,AMD Ryzen 3 7320U,8GB RAM,1TB SSD,13.3 inch,UHD,973.9,Lenovo Slim 7 Pro | 13.3 inch UHD | 8GB RAM | 1TB SSD | AMD Ryzen 3 7320U
+15,Lenovo,AMD,AMD Ryzen 5 7530U,8GB RAM,256GB SSD,14 inch,QHD,993.78,Lenovo LOQ 15 | 14 inch QHD | 8GB RAM | 256GB SSD | AMD Ryzen 5 7530U
+16,ASUS,AMD,AMD Ryzen 7 7840U,8GB RAM,256GB SSD,13.3 inch,UHD,997.64,ASUS ROG Zephyrus G14 | 13.3 inch UHD | 8GB RAM | 256GB SSD | AMD Ryzen 7 7840U
+17,HP,AMD,AMD Ryzen 7 7840U,8GB RAM,256GB SSD,13.3 inch,HD,999.25,HP Omen 16 | 13.3 inch HD | 8GB RAM | 256GB SSD | AMD Ryzen 7 7840U
+18,Samsung,Intel,Intel Core i3-1215U,16GB RAM,256GB SSD,13.3 inch,UHD,1008.13,Samsung Galaxy Book2 360 | 13.3 inch UHD | 16GB RAM | 256GB SSD | Intel Core i3-1215U
+19,Acer,Intel,Intel Core i7-13700H,8GB RAM,128GB Flash,15.6 inch,QHD,1016.21,Acer Nitro 5 | 15.6 inch QHD | 8GB RAM | 128GB Flash | Intel Core i7-13700H
+20,Dell,Intel,Intel Core i7-1360P,8GB RAM,128GB Flash,13.3 inch,UHD,1021.84,Dell Precision 3580 | 13.3 inch UHD | 8GB RAM | 128GB Flash | Intel Core i7-1360P
+21,Dell,AMD,AMD Ryzen 5 7530U,4GB RAM,256GB SSD,13.3 inch,UHD,1027.5,Dell Vostro 3520 | 13.3 inch UHD | 4GB RAM | 256GB SSD | AMD Ryzen 5 7530U
+22,Samsung,Intel,Intel Processor N100,32GB RAM,128GB Flash,13.3 inch,HD,1034.8,Samsung Galaxy Book2 360 | 13.3 inch HD | 32GB RAM | 128GB Flash | Intel Processor N100
+23,ASUS,Intel,Intel Core i5-1334U,16GB RAM,512GB SSD,14 inch,UHD,1036.14,ASUS ROG Strix G16 | 14 inch UHD | 16GB RAM | 512GB SSD | Intel Core i5-1334U
+24,HP,Intel,Intel Core i7-1360P,4GB RAM,128GB Flash,14 inch,UHD,1037.46,HP Chromebook x2 | 14 inch UHD | 4GB RAM | 128GB Flash | Intel Core i7-1360P
+25,Acer,Intel,Intel Core i7-13700H,16GB RAM,2TB SSD,14 inch,HD,1040.9,Acer Predator Helios 16 | 14 inch HD | 16GB RAM | 2TB SSD | Intel Core i7-13700H
+26,Lenovo,Intel,Intel Core i7-1360P,32GB RAM,128GB Flash,15.6 inch,FHD,1050.2,Lenovo Legion 5 | 15.6 inch FHD | 32GB RAM | 128GB Flash | Intel Core i7-1360P
+27,ASUS,Intel,Intel Processor N100,32GB RAM,2TB SSD,14 inch,QHD,1051.83,ASUS Vivobook S14 | 14 inch QHD | 32GB RAM | 2TB SSD | Intel Processor N100
+28,Samsung,Intel,Intel Core i5-1334U,32GB RAM,2TB SSD,14 inch,2K,1065.3,Samsung Galaxy Book Flex2 | 14 inch 2K | 32GB RAM | 2TB SSD | Intel Core i5-1334U
+29,Acer,AMD,AMD Ryzen 7 7840U,32GB RAM,512GB SSD,14 inch,QHD,1068.51,Acer Swift Go 14 | 14 inch QHD | 32GB RAM | 512GB SSD | AMD Ryzen 7 7840U
+30,Acer,AMD,AMD Ryzen 3 7320U,8GB RAM,2TB SSD,13.3 inch,QHD,1072.2,Acer TravelMate P4 | 13.3 inch QHD | 8GB RAM | 2TB SSD | AMD Ryzen 3 7320U
+31,HP,AMD,AMD Ryzen 7 7840U,4GB RAM,512GB SSD,13.3 inch,HD,1081.07,HP Envy 13 | 13.3 inch HD | 4GB RAM | 512GB SSD | AMD Ryzen 7 7840U
+32,Dell,Intel,Intel Core i3-1215U,8GB RAM,1TB SSD,15.6 inch,QHD,1082.02,Dell XPS 13 | 15.6 inch QHD | 8GB RAM | 1TB SSD | Intel Core i3-1215U
+33,HP,Intel,Intel Core i7-13700H,4GB RAM,256GB SSD,14 inch,UHD,1091.52,HP Dragonfly G4 | 14 inch UHD | 4GB RAM | 256GB SSD | Intel Core i7-13700H
+34,Samsung,Intel,Intel Core i7-13700H,4GB RAM,256GB SSD,15.6 inch,HD,1109.8,Samsung Galaxy Book2 360 | 15.6 inch HD | 4GB RAM | 256GB SSD | Intel Core i7-13700H
+35,Dell,AMD,AMD Ryzen 5 7530U,16GB RAM,128GB Flash,16 inch,HD,1112.46,Dell Chromebook 3110 | 16 inch HD | 16GB RAM | 128GB Flash | AMD Ryzen 5 7530U
+36,HP,AMD,AMD Ryzen 7 7735HS,4GB RAM,2TB SSD,16 inch,HD,1114.53,HP ProBook 440 | 16 inch HD | 4GB RAM | 2TB SSD | AMD Ryzen 7 7735HS
+37,HP,Intel,Intel Core i7-1360P,16GB RAM,512GB SSD,14 inch,QHD,1118.66,HP ProBook 440 | 14 inch QHD | 16GB RAM | 512GB SSD | Intel Core i7-1360P
+38,Acer,AMD,AMD Ryzen 3 7320U,32GB RAM,512GB SSD,14 inch,FHD,1129.6,Acer Predator Helios 16 | 14 inch FHD | 32GB RAM | 512GB SSD | AMD Ryzen 3 7320U
+39,Dell,Intel,Intel Core i7-1360P,32GB RAM,512GB SSD,13.3 inch,2K,1146.7,Dell Latitude 7440 | 13.3 inch 2K | 32GB RAM | 512GB SSD | Intel Core i7-1360P
+40,Acer,Intel,Intel Core i5-12450H,32GB RAM,2TB SSD,15.6 inch,2K,1150.96,Acer Swift Go 14 | 15.6 inch 2K | 32GB RAM | 2TB SSD | Intel Core i5-12450H
+41,HP,Intel,Intel Core i7-13700H,8GB RAM,2TB SSD,16 inch,UHD,1152.03,HP ZBook Firefly | 16 inch UHD | 8GB RAM | 2TB SSD | Intel Core i7-13700H
+42,Dell,Intel,Intel Processor N100,8GB RAM,1TB SSD,15.6 inch,UHD,1163.56,Dell Precision 3580 | 15.6 inch UHD | 8GB RAM | 1TB SSD | Intel Processor N100
+43,ASUS,AMD,AMD Ryzen 5 7640HS,32GB RAM,2TB SSD,16 inch,FHD,1183.39,ASUS ExpertBook B5 | 16 inch FHD | 32GB RAM | 2TB SSD | AMD Ryzen 5 7640HS
+44,Lenovo,AMD,AMD Ryzen 3 7320U,16GB RAM,1TB SSD,15.6 inch,HD,1187.08,Lenovo Yoga Slim 7 | 15.6 inch HD | 16GB RAM | 1TB SSD | AMD Ryzen 3 7320U
+45,Samsung,Intel,Intel Core i5-1334U,16GB RAM,512GB SSD,14 inch,UHD,1187.23,Samsung Galaxy Book Flex2 | 14 inch UHD | 16GB RAM | 512GB SSD | Intel Core i5-1334U
+46,Dell,AMD,AMD Ryzen 7 7735HS,16GB RAM,512GB SSD,15.6 inch,HD,1219.71,Dell Inspiron 14 | 15.6 inch HD | 16GB RAM | 512GB SSD | AMD Ryzen 7 7735HS
+47,Dell,Intel,Intel Core i5-12450H,8GB RAM,2TB SSD,15.6 inch,UHD,1239.42,Dell Alienware m16 | 15.6 inch UHD | 8GB RAM | 2TB SSD | Intel Core i5-12450H
+48,HP,Intel,Intel Core i5-1334U,16GB RAM,512GB SSD,15.6 inch,2K,1240.14,HP ZBook Firefly | 15.6 inch 2K | 16GB RAM | 512GB SSD | Intel Core i5-1334U
+49,HP,Intel,Intel Core i3-1215U,4GB RAM,128GB Flash,16 inch,2K,1254.65,HP Dragonfly G4 | 16 inch 2K | 4GB RAM | 128GB Flash | Intel Core i3-1215U
+50,Acer,AMD,AMD Ryzen 5 7530U,4GB RAM,256GB SSD,13.3 inch,FHD,1311.63,Acer Aspire 5 | 13.3 inch FHD | 4GB RAM | 256GB SSD | AMD Ryzen 5 7530U
+51,Acer,AMD,AMD Ryzen 3 7320U,4GB RAM,512GB SSD,13.3 inch,QHD,1313.37,Acer Spin 5 | 13.3 inch QHD | 4GB RAM | 512GB SSD | AMD Ryzen 3 7320U
+52,HP,Intel,Intel Core i3-1215U,16GB RAM,128GB Flash,14 inch,QHD,1329.05,HP Omen 16 | 14 inch QHD | 16GB RAM | 128GB Flash | Intel Core i3-1215U
+53,ASUS,Intel,Intel Core i3-1215U,8GB RAM,1TB SSD,15.6 inch,2K,1337.85,ASUS ROG Strix G16 | 15.6 inch 2K | 8GB RAM | 1TB SSD | Intel Core i3-1215U
+54,ASUS,Intel,Intel Core i7-13700H,4GB RAM,128GB Flash,14 inch,QHD,1339.09,ASUS Vivobook S14 | 14 inch QHD | 4GB RAM | 128GB Flash | Intel Core i7-13700H
+55,Acer,AMD,AMD Ryzen 7 7840U,4GB RAM,256GB SSD,16 inch,QHD,1348.26,Acer TravelMate P4 | 16 inch QHD | 4GB RAM | 256GB SSD | AMD Ryzen 7 7840U
+56,Samsung,Intel,Intel Core i7-13700H,32GB RAM,1TB SSD,15.6 inch,UHD,1362.66,Samsung Galaxy Book2 360 | 15.6 inch UHD | 32GB RAM | 1TB SSD | Intel Core i7-13700H
+57,Dell,AMD,AMD Ryzen 7 7840U,8GB RAM,128GB Flash,15.6 inch,HD,1365.31,Dell Precision 3580 | 15.6 inch HD | 8GB RAM | 128GB Flash | AMD Ryzen 7 7840U
+58,Lenovo,AMD,AMD Ryzen 5 7640HS,16GB RAM,1TB SSD,13.3 inch,UHD,1377.72,Lenovo Yoga Slim 7 | 13.3 inch UHD | 16GB RAM | 1TB SSD | AMD Ryzen 5 7640HS
+59,Lenovo,AMD,AMD Ryzen 3 7320U,4GB RAM,128GB Flash,13.3 inch,2K,1393.7,Lenovo IdeaPad Flex 5 | 13.3 inch 2K | 4GB RAM | 128GB Flash | AMD Ryzen 3 7320U
+60,Lenovo,Intel,Intel Processor N100,16GB RAM,512GB SSD,15.6 inch,HD,1410.93,Lenovo IdeaPad Flex 5 | 15.6 inch HD | 16GB RAM | 512GB SSD | Intel Processor N100
+61,ASUS,Intel,Intel Core i7-13700H,4GB RAM,256GB SSD,16 inch,FHD,1445.47,ASUS ROG Strix G16 | 16 inch FHD | 4GB RAM | 256GB SSD | Intel Core i7-13700H
+62,HP,AMD,AMD Ryzen 5 7530U,32GB RAM,512GB SSD,16 inch,2K,1489.37,HP Dragonfly G4 | 16 inch 2K | 32GB RAM | 512GB SSD | AMD Ryzen 5 7530U
+63,Dell,Intel,Intel Core i7-13700H,8GB RAM,128GB Flash,14 inch,HD,1509.11,Dell Precision 3580 | 14 inch HD | 8GB RAM | 128GB Flash | Intel Core i7-13700H
+64,Dell,Intel,Intel Processor N100,4GB RAM,1TB SSD,16 inch,UHD,1536.35,Dell Inspiron 14 | 16 inch UHD | 4GB RAM | 1TB SSD | Intel Processor N100
+65,Lenovo,Intel,Intel Processor N100,32GB RAM,512GB SSD,15.6 inch,2K,1562.3,Lenovo Legion 5 | 15.6 inch 2K | 32GB RAM | 512GB SSD | Intel Processor N100
+66,ASUS,Intel,Intel Core i5-12450H,8GB RAM,256GB SSD,16 inch,UHD,1562.52,ASUS Vivobook S14 | 16 inch UHD | 8GB RAM | 256GB SSD | Intel Core i5-12450H
+67,ASUS,Intel,Intel Core i7-13700H,8GB RAM,256GB SSD,16 inch,FHD,1573.3,ASUS Vivobook S14 | 16 inch FHD | 8GB RAM | 256GB SSD | Intel Core i7-13700H
+68,Lenovo,AMD,AMD Ryzen 5 7640HS,8GB RAM,1TB SSD,15.6 inch,QHD,1576.1,Lenovo Slim 7 Pro | 15.6 inch QHD | 8GB RAM | 1TB SSD | AMD Ryzen 5 7640HS
+69,ASUS,Intel,Intel Core i7-13700H,8GB RAM,2TB SSD,15.6 inch,FHD,1582.61,ASUS Zenbook S 13 | 15.6 inch FHD | 8GB RAM | 2TB SSD | Intel Core i7-13700H
+70,ASUS,Intel,Intel Core i5-12450H,32GB RAM,256GB SSD,13.3 inch,2K,1600.23,ASUS ROG Strix G16 | 13.3 inch 2K | 32GB RAM | 256GB SSD | Intel Core i5-12450H
+71,Apple,Apple,Apple M3 Max,4GB RAM,2TB SSD,16 inch,HD,1617.83,Apple MacBook Pro 16 M2 | 16 inch HD | 4GB RAM | 2TB SSD | Apple M3 Max
+72,Dell,Intel,Intel Core i7-13700H,8GB RAM,512GB SSD,14 inch,2K,1617.84,Dell Precision 3580 | 14 inch 2K | 8GB RAM | 512GB SSD | Intel Core i7-13700H
+73,Lenovo,Intel,Intel Core i7-13700H,16GB RAM,512GB SSD,16 inch,FHD,1624.47,Lenovo Yoga 7 | 16 inch FHD | 16GB RAM | 512GB SSD | Intel Core i7-13700H
+74,Apple,Apple,Apple M1,32GB RAM,1TB SSD,14 inch,FHD,1625.53,Apple MacBook Pro 14 M3 | 14 inch FHD | 32GB RAM | 1TB SSD | Apple M1
+75,Lenovo,Intel,Intel Core i5-1334U,4GB RAM,128GB Flash,13.3 inch,2K,1627.55,Lenovo ThinkBook 14 | 13.3 inch 2K | 4GB RAM | 128GB Flash | Intel Core i5-1334U
+76,Apple,Apple,Apple M2,32GB RAM,512GB SSD,14 inch,2K,1646.38,Apple MacBook Pro 14 M3 | 14 inch 2K | 32GB RAM | 512GB SSD | Apple M2
+77,ASUS,Intel,Intel Core i7-1360P,4GB RAM,2TB SSD,14 inch,QHD,1698.33,ASUS Zenbook S 13 | 14 inch QHD | 4GB RAM | 2TB SSD | Intel Core i7-1360P
+78,Samsung,Intel,Intel Core i5-12450H,32GB RAM,256GB SSD,13.3 inch,HD,1701.58,Samsung Galaxy Book Ion | 13.3 inch HD | 32GB RAM | 256GB SSD | Intel Core i5-12450H
+79,ASUS,Intel,Intel Processor N100,16GB RAM,128GB Flash,16 inch,2K,1723.26,ASUS ROG Strix G16 | 16 inch 2K | 16GB RAM | 128GB Flash | Intel Processor N100
+80,ASUS,Intel,Intel Core i5-1334U,8GB RAM,1TB SSD,16 inch,UHD,1739.7,ASUS ProArt Studiobook | 16 inch UHD | 8GB RAM | 1TB SSD | Intel Core i5-1334U
+81,Apple,Apple,Apple M3 Max,16GB RAM,128GB Flash,16 inch,2K,1752.23,Apple MacBook Air 15 M2 | 16 inch 2K | 16GB RAM | 128GB Flash | Apple M3 Max
+82,Dell,AMD,AMD Ryzen 5 7530U,4GB RAM,128GB Flash,13.3 inch,UHD,1755.72,Dell XPS 13 | 13.3 inch UHD | 4GB RAM | 128GB Flash | AMD Ryzen 5 7530U
+83,Lenovo,AMD,AMD Ryzen 7 7840U,4GB RAM,1TB SSD,13.3 inch,QHD,1763.55,Lenovo ThinkBook 14 | 13.3 inch QHD | 4GB RAM | 1TB SSD | AMD Ryzen 7 7840U
+84,Apple,Apple,Apple M3 Pro,4GB RAM,512GB SSD,14 inch,FHD,1774.97,Apple MacBook Air M2 | 14 inch FHD | 4GB RAM | 512GB SSD | Apple M3 Pro
+85,Samsung,Intel,Intel Core i7-13700H,16GB RAM,128GB Flash,15.6 inch,2K,1779.85,Samsung Galaxy Book4 | 15.6 inch 2K | 16GB RAM | 128GB Flash | Intel Core i7-13700H
+86,Samsung,Intel,Intel Core i3-1215U,8GB RAM,512GB SSD,16 inch,2K,1791.69,Samsung Galaxy Book3 | 16 inch 2K | 8GB RAM | 512GB SSD | Intel Core i3-1215U
+87,Apple,Apple,Apple M3 Pro,32GB RAM,2TB SSD,14 inch,2K,1853.53,Apple MacBook Air 13 M1 | 14 inch 2K | 32GB RAM | 2TB SSD | Apple M3 Pro
+88,Acer,Intel,Intel Core i7-13700H,32GB RAM,2TB SSD,14 inch,UHD,1864.56,Acer Predator Helios 16 | 14 inch UHD | 32GB RAM | 2TB SSD | Intel Core i7-13700H
+89,Apple,Apple,Apple M3 Max,32GB RAM,128GB Flash,13.3 inch,HD,1952.91,Apple MacBook Air 15 M2 | 13.3 inch HD | 32GB RAM | 128GB Flash | Apple M3 Max
+90,Apple,Apple,Apple M3 Pro,8GB RAM,1TB SSD,15.6 inch,2K,1959.97,Apple MacBook Pro 16 M3 | 15.6 inch 2K | 8GB RAM | 1TB SSD | Apple M3 Pro
+91,Samsung,AMD,AMD Ryzen 7 7840U,32GB RAM,2TB SSD,15.6 inch,2K,1965.46,Samsung Galaxy Book4 Pro | 15.6 inch 2K | 32GB RAM | 2TB SSD | AMD Ryzen 7 7840U
+92,Samsung,Intel,Intel Core i5-1334U,16GB RAM,128GB Flash,15.6 inch,QHD,2017.13,Samsung Galaxy Book3 | 15.6 inch QHD | 16GB RAM | 128GB Flash | Intel Core i5-1334U
+93,HP,Intel,Intel Processor N100,32GB RAM,128GB Flash,15.6 inch,2K,2031.67,HP ProBook 440 | 15.6 inch 2K | 32GB RAM | 128GB Flash | Intel Processor N100
+94,Apple,Apple,Apple M3,8GB RAM,512GB SSD,15.6 inch,FHD,2162.46,Apple MacBook Air 13 M1 | 15.6 inch FHD | 8GB RAM | 512GB SSD | Apple M3
+95,Apple,Apple,Apple M3,8GB RAM,2TB SSD,14 inch,HD,2172.86,Apple MacBook Pro 13 M2 | 14 inch HD | 8GB RAM | 2TB SSD | Apple M3
+96,Samsung,Intel,Intel Core i7-13700H,16GB RAM,128GB Flash,13.3 inch,HD,2394.87,Samsung Galaxy Book3 Pro | 13.3 inch HD | 16GB RAM | 128GB Flash | Intel Core i7-13700H
+97,Apple,Apple,Apple M3 Pro,8GB RAM,2TB SSD,13.3 inch,HD,2601.94,Apple MacBook Pro 14 M3 | 13.3 inch HD | 8GB RAM | 2TB SSD | Apple M3 Pro
+98,Apple,Apple,Apple M2,16GB RAM,256GB SSD,13.3 inch,FHD,2674.51,Apple MacBook Pro 14 M3 | 13.3 inch FHD | 16GB RAM | 256GB SSD | Apple M2
+99,Apple,Apple,Apple M3 Pro,32GB RAM,256GB SSD,14 inch,UHD,2841.76,Apple MacBook Pro 14 M3 | 14 inch UHD | 32GB RAM | 256GB SSD | Apple M3 Pro
+100,Apple,Apple,Apple M3,32GB RAM,512GB SSD,13.3 inch,FHD,2850.52,Apple MacBook Pro 16 M2 | 13.3 inch FHD | 32GB RAM | 512GB SSD | Apple M3
